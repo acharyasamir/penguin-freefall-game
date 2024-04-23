@@ -1,5 +1,3 @@
-# Penguins Can't Fly!
-
 import pygame
 import random
 
